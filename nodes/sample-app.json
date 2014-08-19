@@ -1,0 +1,9 @@
+{
+  "name" : "sample-app",
+  "fqdn" : "sample-app.example",
+  "box" : "chef/ubuntu-12.04",
+  "ipaddress" : "192.168.34.11",
+  "environment":"development",
+  "run_list":[
+  ]
+}
